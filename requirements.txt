@@ -1,0 +1,4 @@
+# Requirements for Blood Test Center Chatbot
+
+PyQt5==5.15.4
+google-cloud-dialogflow==2.15.0
